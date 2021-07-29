@@ -11,6 +11,6 @@
     "grunt-open": "~0.2.1",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-copy": "~0.4.1",
-    "grunt-contrib-compress": "~0.5.2"
+    "grunt-contrib-compress": "~0.5.3"
   }
 }
