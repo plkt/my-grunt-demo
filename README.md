@@ -1,4 +1,4 @@
-# Grunt demo
+# Grunt demo 
 
 This is a sample project that uses [Grunt](http://www.gruntjs.com) for automating common tasks.
 
